@@ -16,6 +16,6 @@ O programa faz o seguinte:
 ---
 
 ## Conclusão
-Gostei bastante de desenvolver este projeto, pois foi uma ótima oportunidade para colocar em prática os conceitos de controle de fluxo em Java, como estruturas condicionais, laços de repetição, tratamento de exceções e criação de classes personalizadas. Além disso, pude reforçar a importância da validação de dados e da organização do código.
 
-Esse exercício me ajudou a entender melhor como estruturar programas simples de forma clara, reutilizável e segura. Estou animado para continuar evoluindo e aplicando esses conhecimentos em desafios maiores! 
+Ótimo projeto, pois coloquei os conceitos de controle de fluxo em prática. Além disso, pude reforçar a importância da validação de dados e da organização do código.
+Esse exercício me ajudou a entender melhor como estruturar programas simples de forma clara e segura. Estou animado para continuar evoluindo e aplicando esses conhecimentos nos próximos desafios!
