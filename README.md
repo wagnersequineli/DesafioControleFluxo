@@ -1,18 +1,21 @@
-## Getting Started
+# Desafio Controle de Fluxo - Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este projeto foi desenvolvido como parte do módulo de Controle de Fluxo em Java. O desafio consiste em criar um programa que recebe dois números inteiros e imprime uma sequência de números com base na diferença entre eles. O programa também valida se os parâmetros estão corretos, lançando uma exceção personalizada quando necessário.
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## Descrição do projeto
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+O programa faz o seguinte:
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- Recebe **dois números inteiros** via terminal. (Existe a possibilidade de receber o número aleatoriamente, adicionando uma classe random).
+- Verifica se o **segundo número é maior que o primeiro**.
+- Se a condição for válida, imprime uma sequência com a quantidade de interações equivalente à diferença entre os dois números.
+- Caso contrário, **lança uma exceção customizada** com a mensagem: **O segundo parâmetro deve ser maior que o primeiro**.
+  
+---
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Conclusão
+Gostei bastante de desenvolver este projeto, pois foi uma ótima oportunidade para colocar em prática os conceitos de controle de fluxo em Java, como estruturas condicionais, laços de repetição, tratamento de exceções e criação de classes personalizadas. Além disso, pude reforçar a importância da validação de dados e da organização do código.
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Esse exercício me ajudou a entender melhor como estruturar programas simples de forma clara, reutilizável e segura. Estou animado para continuar evoluindo e aplicando esses conhecimentos em desafios maiores! 
